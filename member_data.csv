@@ -1,0 +1,11 @@
+Type,ID,FirstName,LastName,Email,Phone,PerformanceRating,GoalAchieved,Extra1,Extra2
+Regular,M001,Eman,Ejaz,eman.ejaz@email.com,466-0101,7,true,,
+Premium,M002,Sajina,Rana,sajina.rana@email.com,466-0102,9,true,Elina Trainer,8
+Student,M003,Waqas,Iqbal,waqas.iqbal@email.com,466-0103,6,false,STU2024001,State University
+Regular,M004,Sravanth,Rao,sravanth.ra@email.com,466-0104,5,false,,
+Premium,M005,Jessica,Wilson,jessica.w@email.com,466-0105,8,true,Lisa Coach,6
+Student,M006,David,Martinez,david.m@email.com,466-0106,7,true,STU2024002,Tech College
+Regular,M007,Maria,Garcia,maria.g@email.com,466-0107,4,false,,
+Premium,M008,James,Anderson,james.a@email.com,466-0108,10,true,Tom Trainer,10
+Student,M009,Sophie,Taylor,sophie.t@email.com,466-0109,8,true,STU2024003,City University
+Regular,M010,Robert,Thomas,robert.t@email.com,466-0110,6,false,,
