@@ -7,7 +7,7 @@
 This enhanced Member Management System extends the original Assessment 3 implementation with a comprehensive GUI interface, advanced sorting and searching algorithms, and extensive testing framework. The system allows users to choose between a modern graphical interface and the traditional text-based interface while maintaining all original functionality.
 
 ### NAME & ID 
-- ** Muhammad Waqas Iqbal** - 20035422
+- **Muhammad Waqas Iqbal** - 20035422
 
 ---
 
@@ -577,4 +577,5 @@ We certify that this work is our own and has not been submitted elsewhere for ac
 *ICT711 Assessment 4 - Team Project*
 
 *Submitted: [Current Date]*
+
 
